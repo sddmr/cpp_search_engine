@@ -2,7 +2,7 @@ cpp_search_engine
 
 A lightweight C++ search engine utilizing a Chromium backend for efficient web searches.
 
-[Search Engine Overview](search.jpg)
+[Search Engine Overview](img.jpg)
 
 About
 
@@ -45,10 +45,6 @@ To perform a search from the terminal:
 
 This will search for the specified term and show results on Google.
 
-Screenshot
-
-[Application Interface](search.jpg)
 
 
 
-This project is licensed under the MIT License.
