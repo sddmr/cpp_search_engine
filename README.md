@@ -2,7 +2,7 @@ cpp_search_engine
 
 A lightweight C++ search engine utilizing a Chromium backend for efficient web searches.
 
-[Search Engine Overview](img.jpg)
+[İmg](img.jpg)
 
 About
 
